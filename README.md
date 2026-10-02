@@ -11,7 +11,7 @@ Building applied AI solutions for the public sector and agribusiness. My work si
   &nbsp;
   <a href="https://www.linkedin.com/in/bruno-chevitarese/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="README.pt-BR.md"><img alt="Read in Portuguese" src="https://img.shields.io/badge/Portugu%C3%AAs-24292F?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
+  <a href="./LEIAME.md"><img alt="Read in Portuguese" src="https://img.shields.io/badge/Portugu%C3%AAs-24292F?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
 </p>
 
 ## Research & Development Projects
@@ -20,7 +20,7 @@ Building applied AI solutions for the public sector and agribusiness. My work si
 
 <p>
   <a href="http://lattes.cnpq.br/1261867108959311">
-    <img align="left" src="https://via.placeholder.com/128x128/005CA9/ffffff?text=VEPEMA" alt="VEPEMA logo" width="128" hspace="16" vspace="16">
+    <img align="left" src="./assets/vepema-logo.jpg" alt="VEPEMA logo" width="128" hspace="16" vspace="16">
   </a>
   A solution developed in partnership with the Court of Justice of Espírito Santo (VEPEMA/TJES) to automate the monitoring of service providers. The system captures entry and exit times with high precision, automates data flow, and generates compliance reports — replacing manual paper-based records.
   <br><br>
@@ -34,12 +34,12 @@ Building applied AI solutions for the public sector and agribusiness. My work si
 ### MITEHUNTER — AI Pest Control for Strawberry Crops
 
 <p>
-  <a href="http://lattes.cnpq.br/1261867108959311">
-    <img align="left" src="https://via.placeholder.com/128x128/4CAF50/ffffff?text=MITE" alt="MITEHUNTER logo" width="128" hspace="16" vspace="16">
+  <a href="https://mitehunter.ifes.edu.br/">
+    <img align="left" src="./assets/mitehunter-logo.png" alt="MITEHUNTER logo" width="128" hspace="16" vspace="16">
   </a>
   A deep learning-based recommendation system that uses YOLO neural networks to identify two-spotted spider mite (*Tetranychus urticae*) infestations in strawberry plants. The system suggests control actions (chemical, phytotherapeutic, or biological) to help farmers prevent yield losses of up to 20%.
   <br><br>
-  <a href="http://lattes.cnpq.br/1261867108959311">
+  <a href="https://mitehunter.ifes.edu.br/">
     <img src="https://img.shields.io/badge/Learn_more-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Learn more">
   </a>
 </p>
@@ -61,4 +61,4 @@ I am an undergraduate student in Information Systems at the Federal Institute of
 
 I am open to collaboration opportunities, research partnerships, and software development projects. Feel free to reach out via [email](mailto:chevitarese.bruno@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-chevitarese/). You can also check my full academic profile on [Lattes](http://lattes.cnpq.br/1261867108959311).
 
-<!-- PROFILE_LAST_REVIEWED: 2026-08-11 -->
+<!-- PROFILE_LAST_REVIEWED: 2026-10-02 -->
