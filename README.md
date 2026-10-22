@@ -61,4 +61,6 @@ I am an undergraduate student in Information Systems at the Federal Institute of
 
 I am open to collaboration opportunities, research partnerships, and software development projects. Feel free to reach out via [email](mailto:chevitarese.bruno@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-chevitarese/). You can also check my full academic profile on [Lattes](http://lattes.cnpq.br/1261867108959311).
 
-<!-- PROFILE_LAST_REVIEWED: 2026-10-02 -->
+![certificado-xgh](./assets/certificado-xgh.png)
+
+<!-- PROFILE_LAST_REVIEWED: 2026-10-22 -->
